@@ -3,18 +3,15 @@
 ### Instalacion
 
 para instalar el proyecto ejecuta:
-```
+
   npm install --save 
-```
-  npm start
-```
+
+npm start
 
 ![Home](https://user-images.githubusercontent.com/38171455/99726686-cc812f00-2a84-11eb-859a-b0fba70aae9d.png)
 
-
-```
   Ingresa a Puntuar  => localhost:3000/Gallery
-```
+
 ![Gallery](https://user-images.githubusercontent.com/38171455/99726683-cbe89880-2a84-11eb-87e2-19c67ddea00f.png)
 
 
