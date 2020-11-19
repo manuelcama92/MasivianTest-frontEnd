@@ -9,13 +9,13 @@ para instalar el proyecto ejecuta:
   npm start
 ```
 
-![Screenshot](Hole.png)
+![Home](https://user-images.githubusercontent.com/38171455/99726686-cc812f00-2a84-11eb-859a-b0fba70aae9d.png)
+
 
 ```
   Ingresa a Puntuar  => localhost:3000/Gallery
 ```
-![Screenshot](Gallery.png)
-
+![Gallery](https://user-images.githubusercontent.com/38171455/99726683-cbe89880-2a84-11eb-87e2-19c67ddea00f.png)
 
 
 ### Referencias
@@ -45,4 +45,4 @@ Debido a que el servidor al cual se esta realizando la peticion tiene un tiempo 
 en caso de presentar el siguiente Bug, refrescar  el navegador desde localhost:3000
 y volver a puntación.
 
-![Screenshot](Bug.png)
+![Bug](https://user-images.githubusercontent.com/38171455/99726678-c9863e80-2a84-11eb-8e01-04087b28d6e8.png)
